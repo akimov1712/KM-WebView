@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="km_yello">#FCB74F</color>
+    <color name="km_blue">#191930</color>
+
+
+</resources>
